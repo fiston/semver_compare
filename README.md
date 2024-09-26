@@ -14,14 +14,14 @@ A bash script for comparing semantic versions with support for greater than, les
 ### Option 1: Direct Download
 
 ```bash
-sudo curl -L https://raw.githubusercontent.com/yourusername/semver-compare/main/semver_compare -o /usr/local/bin/semver-compare
+sudo curl -L https://raw.githubusercontent.com/fiston/semver-compare/main/semver_compare -o /usr/local/bin/semver-compare
 sudo chmod +x /usr/local/bin/semver-compare
 ```
 
 ### Option 2: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/semver-compare.git
+git clone https://github.com/fiston/semver-compare.git
 cd semver-compare
 sudo cp semver_compare /usr/local/bin/semver-compare
 sudo chmod +x /usr/local/bin/semver-compare
@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any problems or have any questions, please open an issue on the [GitHub repository](https://github.com/yourusername/semver-compare/issues).
+If you encounter any problems or have any questions, please open an issue on the [GitHub repository](https://github.com/fiston/semver-compare/issues).
